@@ -1,11 +1,12 @@
 ![Header](https://user-images.githubusercontent.com/53112883/87727278-52d0f000-c7c9-11ea-8d72-43106bb1a54f.png)
 
+<!--
 I'm currently working on an autonomous UAV project for TUBITAK UAVTURKEY 2020 competition.  
 
 
 
 
-<!--
+
 ### Hi there 👋
 **bilalkabas/bilalkabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
