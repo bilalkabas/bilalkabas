@@ -1,10 +1,10 @@
-![Header](https://user-images.githubusercontent.com/53112883/165172473-205b9ded-8d72-4749-9a90-427492bc71e8.png)
+![Header](https://user-images.githubusercontent.com/53112883/179262283-a002bbb0-82a1-453a-9241-b0b17e815dfc.png)
 
 
 <!--
 I'm currently working on an autonomous UAV project for TUBITAK UAVTURKEY 2020 competition.  
 
-
+![Header](https://user-images.githubusercontent.com/53112883/179262283-a002bbb0-82a1-453a-9241-b0b17e815dfc.png)
 
 
 
