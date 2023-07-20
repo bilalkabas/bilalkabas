@@ -1,12 +1,8 @@
-![Header](https://user-images.githubusercontent.com/53112883/179262283-a002bbb0-82a1-453a-9241-b0b17e815dfc.png)
+![Header](https://github.com/bilalkabas/bilalkabas/assets/53112883/b847de50-93b6-4a10-b17b-1605da0f1d18)
 
 
 <!--
 I'm currently working on an autonomous UAV project for TUBITAK UAVTURKEY 2020 competition.  
-
-![Header](https://user-images.githubusercontent.com/53112883/179262283-a002bbb0-82a1-453a-9241-b0b17e815dfc.png)
-
-
 
 ### Hi there 👋
 **bilalkabas/bilalkabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
