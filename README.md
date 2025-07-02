@@ -1,7 +1,7 @@
-![Header](https://github.com/bilalkabas/bilalkabas/assets/53112883/b847de50-93b6-4a10-b17b-1605da0f1d18)
 
 
 <!--
+![Header](https://github.com/bilalkabas/bilalkabas/assets/53112883/b847de50-93b6-4a10-b17b-1605da0f1d18)
 I'm currently working on an autonomous UAV project for TUBITAK UAVTURKEY 2020 competition.  
 
 ### Hi there 👋
